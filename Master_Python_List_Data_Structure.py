@@ -44,7 +44,7 @@ university_name_list = ["University of the Philippines", "Ateneo de Manila Unive
 university_location_list = ["Quezon City", "Quezon City", "Manila", "Manila", "Manila"]
 university_established_year_list = [1908, 1859, 1911, 1611, 1904]
 university_type_list = ["Public", "Private", "Private", "Private", "Public"]
-university_website_list = ["www.up.edu.ph", "www.ateneo.edu", "	www.dlsu.edu.ph", "	www.ust.edu.ph", "www.pup.edu.ph"]
+university_website_list = ["www.up.edu.ph", "www.ateneo.edu", "	www.dlsu.edu.ph", "www.ust.edu.ph", "www.pup.edu.ph"]
 
 # Print universities data
 print("University List:")
