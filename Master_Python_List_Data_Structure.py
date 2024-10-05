@@ -16,7 +16,7 @@ employee_id_list = [1,2,3,4,5]
 employee_name_list = ["John Doe", " Jane Smith", "Mark Johnson", "Lisa Wong", "Paul Mcdonald"]
 employee_department_list = ["Sales", "Human Resources", "IT", "Marketing", "Finance"]
 employee_age_list = [30, 25, 40, 28, 35]
-employee_email_list = ["john.doe@company.com", "jane.smith@company.com", "mark.johnson@company.com", "	lisa.wong@company.com", "paul.mcdonald@company.com"]
+employee_email_list = ["john.doe@company.com", "jane.smith@company.com", "mark.johnson@company.com", "lisa.wong@company.com", "paul.mcdonald@company.com"]
 
 # Print employee data
 print("Employee List:")
